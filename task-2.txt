@@ -1,0 +1,11 @@
+different b/w document and windows object
+document:
+DOM - document object model 
+first HTML dom is find on 1998 
+ this DOM is a tree section 
+the document object is represents your web page and we want to access any elementn in an html page you always start with accessing teh document object
+the html dom is owner of the all other objects in your web page 
+windows object :
+It represents the browser's window. All global JavaScript objects, functions, and variables automatically become members of the window object. Global variables are properties of the window object. Global functions are methods of the window object.
+The window object is the topmost object of DOM hierarchy. It represents a browser window or frame that displays the contents of the webpage. Whenever a window appears on the screen to display the contents of document, the window object is created.31 ஆக., 2021
+yhe windows object is dennoted by iframe  
